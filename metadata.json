@@ -1,0 +1,6 @@
+{
+  "name": "Team Apex Gaming",
+  "description": "A premium, futuristic, and responsive esports organization website for Team Apex Gaming, featuring dynamic rosters, tournament tracking, a merchandise store, and a full admin CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
